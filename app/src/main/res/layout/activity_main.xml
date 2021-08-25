@@ -8,10 +8,6 @@
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 
-    //Hello we are going to make project using git ivan
-    //this is pranav patil THE GREAT
-    //ivan belshere
-    //sayali nade 44
     <include
         android:id="@+id/app_bar_main"
         layout="@layout/app_bar_main"
