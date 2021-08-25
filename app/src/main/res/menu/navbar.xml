@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home"
+        app:cnb_backgroundColor="@color/orange"
+        app:cnb_iconColor="@color/black"
+        app:cnb_textColor="@color/black" />
+    <item
+        android:id="@+id/playlist"
+        android:icon="@drawable/ic_playlist_24"
+        android:title="Playlists"
+        app:cnb_backgroundColor="@color/orange"
+        app:cnb_iconColor="@color/black"
+        app:cnb_textColor="@color/black" />
+    <item
+        android:id="@+id/fav"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="Favorites"
+        app:cnb_backgroundColor="@color/orange"
+        app:cnb_iconColor="@color/black"
+        app:cnb_textColor="@color/black" />
+</menu>
